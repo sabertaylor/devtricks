@@ -1,0 +1,7 @@
+How to:
+
+- Use regex in Notepad++ to modify SQL to CSV and back.
+- Good tools:
+	- How to open large ETL files using Ultraedit
+	- Beyond Compare how to email html diffs
+
