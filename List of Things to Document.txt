@@ -4,4 +4,6 @@ How to:
 - Good tools:
 	- How to open large ETL files using Ultraedit
 	- Beyond Compare how to email html diffs
-
+- git
+	- How to use git stash instead of reset.
+	- git rerere
